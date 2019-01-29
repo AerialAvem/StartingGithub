@@ -1,4 +1,4 @@
 # Add your names below
 Sarvasv Kulpati
-Aidan ThanosChild
+Aidan Thanoschild
 Austin Fuad
